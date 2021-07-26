@@ -2,7 +2,7 @@ Ce dépôt contient les données de l'article "Représentation vectorielle de se
 
 **Dû à la limitation en taille du dépôt Git, les ressources sont hébergées sur une autre plateforme, dont l'adresse sera mise à jour ici si elle vient à changer**
 
-L'adresse actuelle pour accéder aux ressources est : <https://persyval-platform.univ-grenoble-alpes.fr/DS117/detaildataset>
+L'adresse actuelle pour accéder aux ressources est : <https://perscido.univ-grenoble-alpes.fr/datasets/DS117>
 
 Les ressources fournies sont les suivantes :
 
